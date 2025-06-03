@@ -1160,7 +1160,7 @@ u{
     background-color: transparent;
     border:  2px solid transparent;
 }
-@media (max-width:1310px) {
+@media all (min-width:1200px) and (max-width:1310px) {
     body{
         background-color: #027c0d;
     }
