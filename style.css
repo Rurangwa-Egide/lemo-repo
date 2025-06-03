@@ -270,20 +270,20 @@ b{
 
 }
 #next2{
-    width: 10%;
+   width: 10%;
     padding: 5px;
     font-size: 13px;
     margin-left: 40%;
     border-radius: 10px;
     background-color: transparent;
-    border: 2px solid rgb(224, 216, 216);
+    border: 1px solid rgb(228, 235, 225);
     color: rgb(14, 68, 3);
     margin-top: 4rem;
     text-align: center;
     letter-spacing: 2px;
     word-spacing: 10px;
     cursor: grab;
-    background-color: #ebe7e3;
+    background-color: white;
 }
 #last{
     font-size: 50px;
@@ -827,7 +827,7 @@ b{
     margin-left: 10%;
     margin-top: 5rem;
     border-radius: 20px;
-    background-color: #e1ebe1;
+   background-color: #f6faf4;
 }
 #them{
     font-size: 70px;
