@@ -1183,7 +1183,7 @@ u{
     height: auto;
     margin-top: 4rem;
     margin-left: 8%;
-    border: 5px solid gold;
+    border: 2px solid gold;
 }
 #roman{
     font-size: 35px; 
@@ -1818,6 +1818,10 @@ u{
     font-size: 25px; 
 
 }
+.bod{
+    height: 175vh;
+}
+    
 .end{
     height: 80rem;
 }
