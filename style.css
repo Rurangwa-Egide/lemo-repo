@@ -42,6 +42,10 @@
     cursor: grab;
 
 }
+/* .logo img:hover{
+    transform: scale(1.5);
+    transition: transform 3s ease;
+} */
 .now{
     width: min(30%,130px);
     height: 3rem;
@@ -177,7 +181,7 @@ b{
 }
 .more{
     margin-left: 5%;
-    margin-top: 5rem;
+    margin-top: 2rem;
     font-size: 20px;
     color: rgb(56, 54, 58);
     font-weight: bold;
@@ -190,7 +194,7 @@ b{
 }
 .pub{
      margin-left: 5%;
-    margin-top: 5rem;
+    margin-top: 2rem;
     font-size: 25px;
     color: rgb(160, 159, 161);
     font-weight: bold;
@@ -204,7 +208,7 @@ b{
 }
 #dro{
     margin-left: 2%;
-    margin-top: 5.5rem;
+    margin-top: 2rem;
     font-size: 20px;
     color: rgb(160, 159, 161);
     float: left;
@@ -218,7 +222,7 @@ b{
 }
 #square{
     margin-left: 2%;
-    margin-top: 5.5rem;
+    margin-top: 2rem;
     font-size: 20px;
     color: rgb(160, 159, 161);
     float: left;
@@ -232,7 +236,7 @@ b{
 }
 #com{
     margin-left: 2%;
-    margin-top: 5.5rem;
+    margin-top: 2rem;
     font-size: 20px;
     color: rgb(160, 159, 161);
     float: left;
@@ -246,7 +250,7 @@ b{
 }
 #gra{
      margin-left: 1%;
-    margin-top: 5.5rem;
+    margin-top: 2rem;
     font-size: 20px;
     color: rgb(160, 159, 161);
     float: left;
@@ -936,7 +940,7 @@ b{
     height: auto;
     margin-top: 4rem;
     margin-left: 8%;
-    border: 2px solid gold;
+    border: 5px solid gold;
 }
 #roman{
     font-size: 35px; 
@@ -1490,31 +1494,35 @@ u{
 }
 .more{
     font-size: 18px;
-    text-transform: uppercase;
-    margin-left: auto;
+    text-transform: capitalize;
+    text-align: center;
+    float: auto;
 }
 .pub{
-     margin-left: 5%;
-    margin-top: 5rem;
-    font-size: 25px;
-    text-transform: uppercase;
+    margin-top: 2rem;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
 
 }
 #dro{
-    margin-left: 2%;
+     margin-left: 2%;
     font-size: 15px;
+    text-align: center;
 }
 #square{
     margin-left: 2%;
     font-size: 15px;
+    text-align: center;
 }
 #com{
     margin-left: 2%;
     font-size: 15px;
+    text-align: center;
 }
 #gra{
      margin-left: 1%;
-    margin-top: 5.5rem;
+    margin-top: 2rem;
     font-size: 15px;
 }
 #last{
@@ -1574,6 +1582,8 @@ u{
     width: 15%;
 }
 .black{
+    margin-left: 0;
+    width: 100%;
     height: 185vh;
     margin-top: 8rem;
     border-radius: 5px;
@@ -1586,6 +1596,14 @@ u{
 #replace{
     font-size: 30px;
     text-align: center;
+    margin-left: 15px;
+}
+#we{
+     font-size: 20px;
+    text-align: center;
+    margin-left: 10px;
+
+
 }
 #alli{
     width: 60%;
@@ -1594,22 +1612,29 @@ u{
     margin-left: 75%;
 }
 #firstlog{
+    margin-left: 20px;
     font-size: 20px;
     height: 3rem;
+    margin-top: 1rem;
 }
 #firstlo{
     font-size: 20px;
      height: 3rem;
+     margin-top: 10px;
 
 }
 #firstl{
     font-size: 20px;
      height: 3rem;
+     margin-top: 10px;
+     
 
 }
 #firsta{
     font-size: 20px;
      height: 3rem;
+     margin-top: 10px;
+      margin-left: 20px;
 
 }
 .next1{
@@ -1685,10 +1710,10 @@ u{
 
 }
 #for{
-    width: 30%;
+    width: 32%;
     font-size: 15px;
     margin-top: 1rem;
-    margin-left: 20%;
+    margin-left: 10%;
 
 }
 #spuse{
@@ -1707,126 +1732,125 @@ u{
 }
 #solution{
     margin-top: 10rem;
-    margin-left: 1px;
-    font-size: 25px;
+    margin-left: 50px;
+    font-size: 20px;
 }
 #why{
     margin-top: 1rem;
-    margin-left: 1px; 
-    font-size: 25px;  
+    margin-left: 50px;
+    font-size: 20px; 
 
 }
 #ture{
     margin-top: 1rem;
-    margin-left: 1px; 
-    font-size: 25px;  
+    margin-left: 50px;
+    font-size: 20px; 
 
 }
 #why{
     margin-top: 1rem;
-    margin-left: 1px;   
-    font-size: 25px;
+     margin-left: 50px;
+    font-size: 20px;
 
 }
 #Al{
     margin-top: 1rem;
-    margin-left: 1px;  
-    font-size: 25px; 
+     margin-left: 50px;
+    font-size: 20px; 
 
 }
 #tecn{
     margin-top: 1rem;
-    margin-left: 1px;   
-    font-size: 25px;
+    margin-left: 50px;
+    font-size: 20px;
 
 }
 #secure{
     margin-top: 1rem;
-    margin-left: 1px;  
-    font-size: 25px; 
+    margin-left: 50px;
+    font-size: 20px; 
 
 }
 #mers{
     margin-top: 1rem;
-    margin-left: 1px;  
-    font-size: 25px; 
+    margin-left: 50px;
+    font-size: 20px;
 
 }
 #ment{
     margin-top: 1rem;
-    margin-left: 1px;  
-    font-size: 25px; 
+    margin-left: 50px;
+    font-size: 20px;
 
 }
 #why{
     margin-top: 1rem;
-    margin-left: 1px; 
-    font-size: 25px;  
+    margin-left: 50px;
+    font-size: 20px;
 
 }
 #sales{
     margin-top: 1rem;
-    margin-left: 1px;   
-    font-size: 25px;
+    margin-left: 50px;
+    font-size: 20px;
 
 }
 #remo{
-    margin-top: -31rem;
+    margin-top: -25rem;
     margin-left: 60%;  
-    font-size: 25px; 
+    font-size: 20px; 
 
 }
 #medium{
     margin-top: 1rem;
     margin-left: 60%;  
-    font-size: 25px; 
+   font-size: 20px;
 
 }
 #prise{
     margin-top: 1rem;
     margin-left: 60%;  
-    font-size: 25px; 
+   font-size: 20px;
 
 }
 #resources{
     margin-top: 1rem;
     margin-left: 60%;  
-    font-size: 25px; 
+    font-size: 20px; 
 
 }
 #pricing{
     margin-top: 1rem;
     margin-left: 60%;  
-    font-size: 25px; 
+    font-size: 20px; 
 
 }
 #contact{
     margin-top: 1rem;
     margin-left: 60%;   
-    font-size: 25px;
+    font-size: 20px;
 
 }
 #changelog{
     margin-top: 1rem;
     margin-left: 60%;  
-    font-size: 25px; 
+    font-size: 20px;
 
 }
 #blog{
     margin-top: 1rem;
     margin-left: 60%;  
-    font-size: 25px; 
+    font-size: 20px; 
 
 }
-.bod{
-    height: 175vh;
-}
-    
 .end{
     height: 80rem;
 }
 #reserved{
-    font-size: 30px;
+    font-size: 20px;
+    margin-left: 20px;
+    align-items: center;
+    text-align: center;
 }
 #apple{
     font-size: 30px;
@@ -1847,4 +1871,117 @@ u{
 #name{
     font-size: 15px;
 }
+.bod{
+    height: 175vh;
 }
+}
+@media (max-width: 1100px)
+{
+       .log{
+        width: 20%;
+        font-size: 12px;
+        height: 2rem;
+        margin-left: -250px;
+        margin-top: 6rem;
+   }
+   .now{
+        width: 25%;
+        font-size: 12px;
+        height: 2rem;
+        margin-left: 10px;
+        margin-top: 6rem;
+
+   }
+   .linki a{
+    font-size: 18px;
+    color: rgb(54, 54, 163);
+    margin-left: 3%;
+    margin-top: 18px;
+   }
+   .logo a{
+    font-size: 18px;
+    color: rgb(54, 54, 163);
+    margin-left: 2%;
+    margin-top: 18px;
+
+   }
+   .logo img{
+    font-size: 18px;
+    margin-left: 2%;
+    margin-top: 10px;
+   }
+   .im img{
+    width: 12%;
+    height: auto;
+    margin-left: 10px;
+   }
+   .im .allow{
+    width: 5%;
+    height: auto;
+    margin-left: -5px;
+
+   }
+  #create{
+    margin-left: 5%;
+    text-align: center;
+    margin-top: 3rem;
+    width: 40%;
+    font-size: 9px;
+   }
+   .imgpat2 img{
+    width: 12%;
+    height: auto;
+
+   }
+   .imgpat2 .rist{
+    width: 5%;
+    height: auto;
+    margin-left: -18%;
+
+   }
+   .prag h1{
+    text-align: center;
+    margin-left: 2%;
+   }
+   .prag p{
+    margin-left: 2%;
+   }
+   .left img{
+     width: 12%;
+    height: auto;
+    margin-left: 10px;
+
+   }
+    .left .leftallow{
+    width: 5%;
+    height: auto;
+    margin-left: -5px;
+    transform: rotate(-1deg);
+
+    }
+     .bot1{
+    margin-left: -5%;
+    width: 35%;
+   }
+   .bot2{
+    width: 30
+   }
+   .left2 img{
+       width: 12%;
+    height: auto;
+    margin-left:  60%;
+
+   }
+   .left2 .lef1{
+    width: 5%;
+    height: auto;
+    margin-left: -18%;
+
+   }
+   .bod{
+    width: 100%;
+   }
+  
+}
+
+
