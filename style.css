@@ -5,6 +5,20 @@
     cursor: grab;
     border-radius: 20px;
 }
+.idone{
+    background-color: transparent;
+    border: transparent;
+    margin-left: -18.3%;
+    margin-top: 5px;
+     color: rgb(54, 54, 163);
+}
+.idetwo{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 8%;
+    margin-top: 5px;
+     color: rgb(54, 54, 163);
+}
 .logo img{
     width: 40px;
     height: auto;
@@ -1443,6 +1457,12 @@ u{
 
 @media (max-width:1198px)
 {
+     .idetwo{
+        display: none;
+    }
+     .idone{
+        display: none;
+    }
     body{
         background-color: black;
     }
