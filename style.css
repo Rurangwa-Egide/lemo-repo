@@ -1,8 +1,9 @@
 .bod{
     width: 100%;
-    height: 150vh;
+    height: 100vh;
     background-color: #f3efeb;
     cursor: grab;
+    border-radius: 20px;
 }
 .logo img{
     width: 40px;
@@ -268,6 +269,7 @@ b{
     height: 470vh;
     background-color: white;
     cursor: grab;
+    border-radius: 20px;
 
 }
 #next2{
@@ -693,7 +695,7 @@ b{
     border-radius: 20px;
     margin-top: 6rem;
     margin-left: 2%;
-    height: 150vh;
+    height: 115vh;
     background-color: rgb(47, 66, 70);
 }
 #tripp{
@@ -754,7 +756,7 @@ b{
     width: 10%;
     height: 7rem;
     margin-left: 2%;
-    margin-top: 10rem;
+    margin-top: 7rem;
     font-size: 50px;
      border-radius: 10px;
 }
@@ -769,23 +771,22 @@ b{
 #firstl{
     width: 10%;
     height: 7rem;
-    /* margin-left: -%; */
     margin-top: 5rem;
     font-size: 50px;
-     border-radius: 10px;
+    border-radius: 10px;
+    margin-left: 2%;    
 }
 #firsta{
     width: 10%;
     height: 7rem;
-    margin-left: 5.6%;
+    margin-left: 2%;
     margin-top: 5rem;
     font-size: 50px;
-     border-radius: 10px;
+    border-radius: 10px;
 }
 #dabble{
     font-size: 90px;
     margin-left: 45%;
-    /* margin-top: 5rem; */
 }
 #moredd{
      font-size: 40px;
@@ -1177,7 +1178,7 @@ u{
     
 .end{
     width: 100%;
-    height: 100vh;
+    height: 70vh;
     background-color: rgb(29, 37, 39);
 
 }
@@ -1427,6 +1428,9 @@ u{
     body{
         background-color: black;
     }
+    .bod{
+        height: 100vh;
+    }
    .log{
         width: 15%;
         font-size: 10px;
@@ -1532,7 +1536,7 @@ u{
     font-size: 15px;
 }
 #dash{
-    height: 45rem;
+    height: 39rem;
 }
 #all{
     width: 34%;
@@ -1541,7 +1545,7 @@ u{
 }
 #stream{
     width: 90%;
-    height: 25rem;
+    height: 20rem;
     margin-top: 130px;
     margin-left: 10px;
     
@@ -1580,13 +1584,33 @@ u{
 }
 #cricle{
     width: 15%;
+    margin-top: -36px;
 }
+
 .black{
     margin-left: 0;
     width: 100%;
-    height: 185vh;
+    height: 142vh;
     margin-top: 8rem;
     border-radius: 5px;
+}
+#mes {
+    height: 7.6rem;
+}
+#pdf{
+    font-size: 25px;
+    background-color: transparent;
+}
+#uploaded{
+    text-align: center;
+}
+#mes img{
+    width: 10%;
+    height: auto;
+}
+#bill{
+    margin-left: 20%;
+    margin-top: rem;
 }
 #tripp{
     width: 45%;
@@ -1612,33 +1636,39 @@ u{
     margin-left: 75%;
 }
 #firstlog{
+    width: 20%;
     margin-left: 20px;
     font-size: 20px;
     height: 3rem;
     margin-top: 1rem;
 }
 #firstlo{
+    width: 20%;
+    margin-left: 20px;
     font-size: 20px;
-     height: 3rem;
-     margin-top: 10px;
-
+    height: 3rem;
+    margin-top: 1rem;
 }
 #firstl{
-    font-size: 20px;
+     width: 20%;
+     font-size: 20px;
      height: 3rem;
      margin-top: 10px;
+     margin-left: 20px;
      
 
 }
 #firsta{
+     width: 20%;
     font-size: 20px;
      height: 3rem;
      margin-top: 10px;
-      margin-left: 20px;
+    margin-left: 20px;
 
 }
 .next1{
     height: 800vh;
+    border-radius: 1px;
 }
 #moredd{
     font-size: 20px;
@@ -1872,7 +1902,7 @@ u{
     font-size: 15px;
 }
 .bod{
-    height: 175vh;
+    height: 143vh;
 }
 }
 @media (max-width: 1100px)
@@ -1980,6 +2010,10 @@ u{
    }
    .bod{
     width: 100%;
+    border-radius: 1px;
+   }
+   #Message{
+    width: 40%;
    }
   
 }
