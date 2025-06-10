@@ -41,6 +41,7 @@
     background-color: rgba(255, 255, 255, 0.877);
     text-transform: capitalize;
     cursor: grab;
+    margin-top: 10px;
 
 }
 /* .logo img:hover{
@@ -50,11 +51,12 @@
 .now{
     width: min(30%,130px);
     height: 3rem;
-     border-radius: 10px;
-     background-color: rgba(3, 46, 1, 0.877);
+    border-radius: 10px;
+    background-color: rgba(3, 46, 1, 0.877);
     color: white;
     text-transform: capitalize;
     cursor: grab;
+    margin-top: 10px;
 
 }
 .im img{
@@ -64,6 +66,8 @@
     margin-top: 5rem;
     border: 2px solid white;
     cursor: grab;
+    border: 5px solid white;
+    margin-left: 60px;
 }
 .im .allow{
     width: 2%;
@@ -71,17 +75,20 @@
     border-radius: 50%;
     transform: rotate(99deg);
     cursor: grab;
+    margin-left: -5px;
 
 }
 #create{
     width: 15%;
-    margin-left: 28%;
+    margin-left: 25%;
     height: 2rem;
     border-radius: 10px;
     border: 2px solid transparent;
-    color: rgb(2, 78, 8);
+    color: rgb(118, 194, 125);
     letter-spacing: 1px;
-    background-color: white
+    background-color: white;
+    font-weight: bold;
+    word-spacing: 2px;
 }
 .imgpat2 img{
     width: 5%;
@@ -90,11 +97,12 @@
     margin-left: 80%;
     border-radius: 50%;
     cursor: grab;
+     border: 5px solid white;
 }
 .imgpat2 .rist{
     width: 2%;
     height: auto;
-    margin-left: -8%;
+    margin-left: -9%;
     transform: rotate(199deg);
     cursor: grab;
 }
@@ -131,7 +139,7 @@ b{
     border-radius: 50%;
     margin-top: 4rem;
     margin-left: 10%;
-    border: 2px solid white;
+     border: 5px solid white;
     float: left;
     cursor: grab;
 }
@@ -150,7 +158,7 @@ b{
     border-radius: 50%;
     margin-top: 4rem;
     margin-left: 55%;
-    border: 2px solid white;
+     border: 5px solid white;
     float: left;
     cursor: grab;
 }
@@ -179,6 +187,8 @@ b{
      border-radius: 10px;
      text-transform: capitalize;
      cursor: grab;
+     border: 2px solid white;
+     background-color: white;
 }
 .more{
     margin-left: 5%;
@@ -1966,7 +1976,7 @@ u{
    .imgpat2 .rist{
     width: 5%;
     height: auto;
-    margin-left: -18%;
+    margin-left: -22%;
 
    }
    .prag h1{
@@ -2005,7 +2015,7 @@ u{
    .left2 .lef1{
     width: 5%;
     height: auto;
-    margin-left: -18%;
+    margin-left: -20%;
 
    }
    .bod{
