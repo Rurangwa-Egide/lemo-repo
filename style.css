@@ -1461,12 +1461,6 @@ u{
 
 @media (max-width:1198px)
 {
-     #idetwo{
-        display: none;
-    }
-     #idone{
-        display: none;
-    }
     body{
         background-color: black;
     }
@@ -1475,6 +1469,34 @@ u{
         margin-left: none;
         height: 100vh;
     }
+    #logo img{
+    width: 30px;
+    height: auto;
+    float: left;
+    border-radius: 50%;
+    margin-left: 4%;
+    cursor: grab;
+    margin-top: 1.5rem;
+}
+    #logo a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(0, 4, 255);
+    text-transform: capitalize;
+    float: left;
+    cursor: grab;
+    margin-top: 1.3rem;
+}
+.linki a{
+    text-decoration: none;
+    color: rgb(54, 54, 163);
+    text-transform: capitalize;
+    float: left;
+    margin-left: 4%;
+    text-transform: capitalize;
+    cursor: grab;
+
+}
    .log{
         width: 10%;
         font-size: 10px;
