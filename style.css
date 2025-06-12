@@ -3,7 +3,7 @@
 }
 .bod{
     width: 90%;
-    height: 90vh;
+    height: 100vh;
     background-color: #f7f5f4;
     cursor: grab;
     margin-left: 5%;
@@ -290,7 +290,7 @@ b{
 .next1{
     width: 90%;
     margin-left: 5%;
-    height: 465vh;
+    height: 485vh;
     background-color: white;
     cursor: grab;
 
