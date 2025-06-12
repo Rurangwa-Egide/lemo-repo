@@ -290,7 +290,7 @@ b{
 .next1{
     width: 90%;
     margin-left: 5%;
-    height: 485vh;
+    height: 495vh;
     background-color: white;
     cursor: grab;
 
@@ -728,7 +728,7 @@ b{
     background-color: rgb(47, 66, 70);
 }
 #tripp{
-    width: 10%;
+    width: 15%;
     height: 2rem;
     font-size: 10px;
     border-radius: 10px;
@@ -765,7 +765,7 @@ b{
     margin-top: 2px;
     width: 20px;
     height: auto;
-    margin-left: 54%;
+    margin-left: 55%;
     color: white;
     
 }
@@ -1477,7 +1477,7 @@ u{
    #create{
     margin-left: 5%;
     width: 50%;
-    font-size: 9px;
+    font-size: 5px;
    }
    .imgpat2{
     margin-top: -2rem;
@@ -1646,7 +1646,7 @@ u{
     margin-top: rem;
 }
 #tripp{
-    width: 30%;
+    width: 35%;
     font-size: 7px;
     margin-left: 35%;
 }
@@ -1982,11 +1982,10 @@ u{
 
    }
   #create{
-    /* margin-left: 5%; */
     text-align: center;
     margin-top: 3rem;
     width: 40%;
-    font-size: 9px;
+    font-size: 7.5px;
    }
    .imgpat2 img{
     width: 10%;
