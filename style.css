@@ -30,7 +30,7 @@
     border-radius: 50%;
     margin-left: 4%;
     cursor: grab;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
 }
 #logo a{
     text-decoration: none;
@@ -39,7 +39,7 @@
     text-transform: capitalize;
     float: left;
     cursor: grab;
-    margin-top: 1rem;
+    margin-top: 2rem;
 }
 .linki a{
     text-decoration: none;
@@ -61,7 +61,7 @@
     background-color: rgba(255, 255, 255, 0.877);
     text-transform: capitalize;
     cursor: grab;
-    margin-top: 1rem;
+    margin-top: 2rem;
 
 }
 /* .logo img:hover{
